@@ -1,0 +1,7 @@
+C:\Users\Angel\source\repos\Esepsioones\Esepsioones\bin\Debug\Esepsioones.exe.config
+C:\Users\Angel\source\repos\Esepsioones\Esepsioones\bin\Debug\Esepsioones.exe
+C:\Users\Angel\source\repos\Esepsioones\Esepsioones\bin\Debug\Esepsioones.pdb
+C:\Users\Angel\source\repos\Esepsioones\Esepsioones\obj\Debug\Esepsioones.csproj.AssemblyReference.cache
+C:\Users\Angel\source\repos\Esepsioones\Esepsioones\obj\Debug\Esepsioones.csproj.CoreCompileInputs.cache
+C:\Users\Angel\source\repos\Esepsioones\Esepsioones\obj\Debug\Esepsioones.exe
+C:\Users\Angel\source\repos\Esepsioones\Esepsioones\obj\Debug\Esepsioones.pdb
